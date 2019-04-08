@@ -8,5 +8,5 @@ o dos alunos, também tirando foto.
 O resultado é marcar as respostas certas de cor vermelha e o retorno em uma text
 Box do total de acertos do aluno.
 
-A documentação do projeto está no link: [Google](https://drive.google.com/file/d/0B4wHrnpkylGScTRCQWhISHZqVGM/view?usp=sharing)
+A documentação do projeto pode ser vista [aqui](https://drive.google.com/file/d/0B4wHrnpkylGScTRCQWhISHZqVGM/view?usp=sharing).
 
