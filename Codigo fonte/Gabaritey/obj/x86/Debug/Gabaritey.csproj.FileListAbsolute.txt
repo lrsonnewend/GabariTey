@@ -1,0 +1,115 @@
+D:\Documentos\ETEC\C#\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+D:\Documentos\ETEC\C#\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+D:\Documentos\ETEC\C#\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+H:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.exe
+H:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.pdb
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+H:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+F:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.exe
+F:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.pdb
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+F:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+G:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+G:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+E:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.exe
+E:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.pdb
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+E:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\bin\Debug\Gabaritey.exe
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\bin\Debug\Gabaritey.pdb
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+C:\Users\Etec\Desktop\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.exe
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+I:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.exe
+I:\Gabaritey\Gabaritey\bin\Debug\Gabaritey.pdb
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+I:\Gabaritey\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.exe
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+I:\Gabaritey - Cópia\Gabaritey\bin\Debug\Gabaritey.exe
+I:\Gabaritey - Cópia\Gabaritey\bin\Debug\Gabaritey.pdb
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+I:\Gabaritey - Cópia\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+I:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.exe
+I:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.pdb
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+I:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+E:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.exe
+E:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.pdb
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+E:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+G:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.exe
+G:\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.pdb
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+G:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+G:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+G:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.exe
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\bin\Debug\Gabaritey.pdb
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+D:\Nova pasta\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+C:\Users\Arthur\Downloads\Gabaritey(GridView)\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+C:\Users\Arthur\Downloads\Gabaritey(GridView)\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+H:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+H:\Gabaritey(GridView)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.exe
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.pdb
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+C:\Users\lucas\Downloads\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.exe
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.pdb
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+C:\Users\lucas\Desktop\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.exe
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.pdb
+F:\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.exe
+F:\Codigo fonte (projeto completo)\Gabaritey\bin\Debug\Gabaritey.pdb
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csprojResolveAssemblyReference.cache
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Form1.resources
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.Properties.Resources.resources
+F:\Codigo fonte (projeto completo)\Gabaritey\obj\x86\Debug\Gabaritey.csproj.GenerateResource.Cache
