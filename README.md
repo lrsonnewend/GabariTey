@@ -6,6 +6,3 @@ GabariTey é um projeto desktop desenvolvido na linguagem C# usando captura de i
 
 O resultado é marcar as respostas certas de cor vermelha e o retorno em uma text
 Box do total de acertos do aluno.
-
-A documentação do projeto encontra-se [aqui](https://drive.google.com/file/d/0B4wHrnpkylGScTRCQWhISHZqVGM/view?usp=sharing).
-
